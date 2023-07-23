@@ -1,11 +1,12 @@
 ### Wizard
 
-<h1></h1>
+ <h1></h1>
 
 C++, C#, Java, JavaScript, Lua, PHP, NodeJS (& Weblanguages such as HTML and CSS)
-
+<br><br>
 - Discord: aylyan1
 - Jabber/Pidgin: salemo23@jabber.de
+<h1></h1>
 
 <!--
 **salemo5m/salemo5m** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
